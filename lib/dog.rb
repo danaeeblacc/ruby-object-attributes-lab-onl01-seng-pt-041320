@@ -1,5 +1,4 @@
 Class dog
-
   def name=(name)
     @name
   end
